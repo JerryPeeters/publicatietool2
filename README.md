@@ -7,7 +7,7 @@ live preview doc rendered (html texteditor met id's voor elke node)
     Alleen basis van publicatie (premade) 
 
 -------------------------
-<scalability zone>
+scalability zone
 
 user input
     text editen
@@ -25,7 +25,7 @@ user input
     
     Opslaan en koppelen aan format.   
 
-</scalability zone>
+/scalability zone
 -------------------------
 
 html doc naar docx ->
