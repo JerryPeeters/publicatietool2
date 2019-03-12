@@ -1,0 +1,47 @@
+kies format
+    optie om format toe te voegen
+    laad format (toggle mutatie van leeg documentmodel)
+
+format (type blanco vraag)
+
+
+
+vraag kunnen toevoegen
+    waar je cursor staat
+        aanpassing (write & delete)
+        alleen tekst toevoegen
+
+    
+    
+    vraag die mutaties maakt in het documentmodel
+        basis vraagtypes
+        JSX per vraag
+
+        types:
+            ja/nee vraag (bool)
+            opties (zelf opties toevoegen)
+            text (input of false (knop: [overslaan])
+
+        acties:
+            meer vragen stellen
+            documentmodel aanpassen (write & delete)
+
+
+
+documentmodel
+    lijst met ankerpoints
+        DOM of XML of []
+    
+    mutaties live te volgen -> vragen
+    mutaties live maken op basis van textinput -> live editing
+    documentmodel vertalen naar XML -> docx via sjabloon (staatscourant of anders)
+
+form met zendergegevens
+    getDocumentmodel()
+    POST
+
+wachtscherm
+
+downloadpagina
+
+
